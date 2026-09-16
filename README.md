@@ -1,6 +1,22 @@
-# Chris
+# Chris Yanez
 
-Independent developer and research operator building AI-assisted software systems, defensive analysis tooling, and controlled technical research infrastructure.
+Independent systems and security researcher building defensive analysis tooling, secure software systems, and reproducible technical research infrastructure.
+
+[LinkedIn](https://www.linkedin.com/in/chrisavor/) · [Research portfolio](https://github.com/chrisavor/windows-binary-analysis-research) · [WinBinTriage v0.1.0](https://github.com/chrisavor/windows-binary-analysis-research/releases/tag/v0.1.0)
+
+## Featured project
+
+### [WinBinTriage](https://github.com/chrisavor/windows-binary-analysis-research)
+
+A bounded, static-only Windows PE analysis tool extracted from a larger private defensive-analysis laboratory.
+
+- Performs race-safe, single-handle sample intake under immutable resource ceilings.
+- Reports SHA-256 identity, PE structure, mitigations, sections, entropy, overlays, and defensive indicators.
+- Emits schema-versioned JSON with constant-time-verifiable report integrity.
+- Never executes, loads, injects into, or modifies the selected sample.
+- Verified by 22 automated tests and public Windows CI on Python 3.11 and 3.12.
+
+[Source and documentation](https://github.com/chrisavor/windows-binary-analysis-research) · [Latest release](https://github.com/chrisavor/windows-binary-analysis-research/releases/tag/v0.1.0) · [Public CI evidence](https://github.com/chrisavor/windows-binary-analysis-research/actions/runs/35047620401)
 
 ## Current areas of work
 
@@ -10,9 +26,9 @@ Independent developer and research operator building AI-assisted software system
 - Source-grounded research infrastructure with auditable provenance.
 - Production software architecture, testing, and reliability engineering.
 
-## Featured research
+## Technical focus
 
-- [Windows Binary Analysis Research](https://github.com/chrisavor/windows-binary-analysis-research) — defensive triage methodology, synthetic-target validation, and read-only driver safety design.
+`Python` · `C/C++` · `Windows internals` · `Binary analysis` · `Static analysis` · `Secure software design` · `Testing` · `GitHub Actions`
 
 ## Working principles
 
