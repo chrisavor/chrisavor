@@ -1,6 +1,6 @@
 # Christopher Yanez
 
-Founder of [Tropiro](https://github.com/tropiro), an early-stage critical-systems product-security project.
+Founder of [Tropiro](https://tropiro.com), an early-stage critical-systems product-security project.
 
 I am building open-source foundations for vendor-authorized testing in disconnected, restoreable lab environments. My current work focuses on explicit scope, safe-state and recovery controls, attributable evidence, and exact fix-and-retest workflows.
 
@@ -13,4 +13,4 @@ I am building open-source foundations for vendor-authorized testing in disconnec
 
 Product security · agentic systems · critical systems
 
-[LinkedIn](https://www.linkedin.com/in/christopher-yanez-329176442/) · [Tropiro](https://github.com/tropiro)
+[Website](https://tropiro.com) · [LinkedIn](https://www.linkedin.com/in/christopher-yanez-329176442/) · [Tropiro GitHub](https://github.com/tropiro)
